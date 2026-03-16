@@ -2,4 +2,4 @@
 this is a complete git course
 
 # this is a change from feature branch
-#sthis is  feature 2.0
+# sthis is  feature 2.0
